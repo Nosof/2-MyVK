@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Гомер"; ObjectID = "4HB-bI-nPc"; */
+"4HB-bI-nPc.text" = "Гомер";
+
+/* Class = "UILabel"; text = "Пароль"; ObjectID = "6iF-vS-7b8"; */
+"6iF-vS-7b8.text" = "Пароль";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KPb-63-pZs"; */
+"KPb-63-pZs.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "111"; ObjectID = "OXB-qJ-LK9"; */
+"OXB-qJ-LK9.placeholder" = "111";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QPm-bO-B5P"; */
+"QPm-bO-B5P.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Группы"; ObjectID = "Qoi-4z-gVu"; */
+"Qoi-4z-gVu.title" = "Группы";
+
+/* Class = "UITextField"; placeholder = "admin"; ObjectID = "UF1-y1-fzv"; */
+"UF1-y1-fzv.placeholder" = "admin";
+
+/* Class = "UIButton"; normalTitle = "Вход"; ObjectID = "c9s-Vg-gTA"; */
+"c9s-Vg-gTA.normalTitle" = "Вход";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "dhf-VS-lQu"; */
+"dhf-VS-lQu.title" = "Root View Controller";
+
+/* Class = "UITabBarItem"; title = "Друзья"; ObjectID = "g8V-WO-qhZ"; */
+"g8V-WO-qhZ.title" = "Друзья";
+
+/* Class = "UITabBarItem"; title = "Новости"; ObjectID = "gra-Sl-Rj5"; */
+"gra-Sl-Rj5.title" = "Новости";
+
+/* Class = "UILabel"; text = "Логин"; ObjectID = "ih3-pR-s6U"; */
+"ih3-pR-s6U.text" = "Логин";
+
+/* Class = "UILabel"; text = "ВКонтакте"; ObjectID = "rKn-xA-jWP"; */
+"rKn-xA-jWP.text" = "ВКонтакте";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ttj-6C-z4k"; */
+"ttj-6C-z4k.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uTq-h4-gJ2"; */
+"uTq-h4-gJ2.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Аватар"; ObjectID = "yPu-7w-Ni4"; */
+"yPu-7w-Ni4.title" = "Аватар";
